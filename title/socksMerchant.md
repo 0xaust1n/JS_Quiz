@@ -30,3 +30,5 @@ ar = [1,2,1,2,1,3,2]
 
 ### 進階挑戰
 - 只使用一個迴圈完成此功能
+
+### [Code Template](../src/socksMerchant.js)
